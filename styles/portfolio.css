@@ -1,0 +1,25 @@
+body{ font-family: "Open Sans", sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul > li{
+    list-style: none;
+}
+
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.nav-span{
+    color: #FD6E0A;
+}
