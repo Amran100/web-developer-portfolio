@@ -149,7 +149,16 @@ color: #757575;
 .work-detail{
   color: #757575;
 }
-.experience-btn {
- display: flex;
- justify-content: center;
+
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Footer styles */
+footer{
+  display: flex;
+  background-color: #fff8f3;
+  margin-top: 100px;
+  padding: 130px 100px;
 }
